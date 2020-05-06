@@ -1,4 +1,4 @@
-#### Projeto desenvolvido para o desafio do Bootcamp GoStack!
+#### Projeto desenvolvido para o desafio do Bootcamp GoStack! Com o objetivo de listar os repositórios do GitHub com suas Issues.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
